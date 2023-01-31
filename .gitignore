@@ -1,5 +1,5 @@
 /Datasets/*
-!/daat/*.py
+!/Datasets/*.py
 /models/ 
 /resources/
 
