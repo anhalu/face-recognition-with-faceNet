@@ -1,0 +1,7 @@
+/Datasets/*
+/models/ 
+/resources/
+
+/.idea
+__pycache__/ 
+.DS_Store 
